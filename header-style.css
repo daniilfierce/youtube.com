@@ -11,6 +11,9 @@
     top: 0;
     left: 0;
     right: 0;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(179, 179, 179);
+    border-bottom-style: solid;
 }
 .left-section{
     display: flex;
